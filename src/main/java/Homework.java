@@ -12,7 +12,6 @@ public class Homework {
             System.out.println("Length " + file.length());
             System.out.println("Is directory " + file.isDirectory());
             System.out.println("Is file " + file.isFile());
-
             System.out.println("**************************");
         }
 
