@@ -5,23 +5,15 @@ public class ThreadPoolExample {
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(3);
 
-        for (int i = 0; i < 10; i++) {
-            executor.execute(new Task("Thread " + (i % 3 + 1)));
+        for (int i = 0; i < 3; i++) {
+            executor.execute(() -> {
+                for (int j = 0; j < 10; j++) {
+                    System.out.println(Thread.currentThread().getName());
+                }
+            });
         }
-
-        executor.shutdown();
-    }
-
-    static class Task implements Runnable {
-        private String name;
-
-        public Task(String name) {
-            this.name = name;
-        }
-
-        @Override
-        public void run() {
-            System.out.println(name);
-        }
+            executor.shutdown();
     }
 }
+
+
