@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 
 public class ParallelCollectionExam {
     public static void main(String[] args) {
-        int n = 17;
+        int n = 10;
 
         List<Integer> collect = new ArrayList<>();
         for (int i = 0; i < n; i++) {
