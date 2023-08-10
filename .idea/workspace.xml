@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d518358b-ca91-49d5-a7e4-ddbdb36c8674" name="Changes" comment="ver 1.8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadPoolExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ParallelCollectionExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParallelCollectionExam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +38,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadPoolExample">
-    <configuration name="Homework6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework6" />
-      <module name="createfiles" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ParallelCollectionExam">
     <configuration name="Latch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Latch" />
       <module name="createfiles" />
@@ -56,6 +48,13 @@
     </configuration>
     <configuration name="Lessons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lessons" />
+      <module name="createfiles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelCollectionExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParallelCollectionExam" />
       <module name="createfiles" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParallelCollectionExam" />
         <item itemvalue="Application.ThreadPoolExample" />
         <item itemvalue="Application.ThreadPoolExample2" />
         <item itemvalue="Application.Lessons" />
         <item itemvalue="Application.Latch" />
-        <item itemvalue="Application.Homework6" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690393232388</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ver 1.8">
+      <created>1690479571888</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690479571888</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
