@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d518358b-ca91-49d5-a7e4-ddbdb36c8674" name="Changes" comment="ver 1.8">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ParallelCollectionExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ParallelCollectionExam.java" afterDir="false" />
+    <list default="true" id="d518358b-ca91-49d5-a7e4-ddbdb36c8674" name="Changes" comment="ver 1.9">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Homework7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +39,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ParallelCollectionExam">
-    <configuration name="Latch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Latch" />
+  <component name="RunManager" selected="Application.Homework7">
+    <configuration name="Homework7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework7" />
       <module name="createfiles" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework7" />
         <item itemvalue="Application.ParallelCollectionExam" />
         <item itemvalue="Application.ThreadPoolExample" />
         <item itemvalue="Application.ThreadPoolExample2" />
         <item itemvalue="Application.Lessons" />
-        <item itemvalue="Application.Latch" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +248,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690479571888</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ver 1.8">
+      <created>1691688160868</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1691688160868</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ver 1.9">
+      <created>1691688306986</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1691688306986</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ver 1.9">
+      <created>1691688349908</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1691688349908</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +293,7 @@
     <MESSAGE value="ver 1.6" />
     <MESSAGE value="ver 1.7" />
     <MESSAGE value="ver 1.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 1.8" />
+    <MESSAGE value="ver 1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 1.9" />
   </component>
 </project>
